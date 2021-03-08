@@ -12,5 +12,8 @@ Minimal fork of Tim Lee's
 3. Personalize siteMetadata.json
 4. Modify projectsData.js
 5. Modify headerNavLinks.js to customize navigation links
-6. Add blog posts
-7. Deploy on Vercel
+6. Add content
+
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/Jordan-Gilliam/nextjs-template)
